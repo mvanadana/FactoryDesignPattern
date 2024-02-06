@@ -1,0 +1,16 @@
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\Shape.exe
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\Shape.deps.json
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\Shape.runtimeconfig.json
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\Shape.runtimeconfig.dev.json
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\Shape.dll
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\ref\Shape.dll
+E:\PSET\DesignPatterns\Shape\bin\Debug\net5.0\Shape.pdb
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.csproj.AssemblyReference.cache
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.AssemblyInfoInputs.cache
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.AssemblyInfo.cs
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.csproj.CoreCompileInputs.cache
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.dll
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\ref\Shape.dll
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.pdb
+E:\PSET\DesignPatterns\Shape\obj\Debug\net5.0\Shape.genruntimeconfig.cache
